@@ -1,0 +1,4 @@
+-- This pulls the weather data
+  SELECT *
+  INTO MY_WEATHER_HIST
+  FROM SRC_WEATHER;
